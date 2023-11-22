@@ -1,0 +1,11 @@
+G:\PRG\WinFormsApp1\RetezUtil\bin\Debug\net6.0\RetezUtil.deps.json
+G:\PRG\WinFormsApp1\RetezUtil\bin\Debug\net6.0\RetezUtil.dll
+G:\PRG\WinFormsApp1\RetezUtil\bin\Debug\net6.0\RetezUtil.pdb
+G:\PRG\WinFormsApp1\RetezUtil\obj\Debug\net6.0\RetezUtil.GeneratedMSBuildEditorConfig.editorconfig
+G:\PRG\WinFormsApp1\RetezUtil\obj\Debug\net6.0\RetezUtil.AssemblyInfoInputs.cache
+G:\PRG\WinFormsApp1\RetezUtil\obj\Debug\net6.0\RetezUtil.AssemblyInfo.cs
+G:\PRG\WinFormsApp1\RetezUtil\obj\Debug\net6.0\RetezUtil.csproj.CoreCompileInputs.cache
+G:\PRG\WinFormsApp1\RetezUtil\obj\Debug\net6.0\RetezUtil.dll
+G:\PRG\WinFormsApp1\RetezUtil\obj\Debug\net6.0\refint\RetezUtil.dll
+G:\PRG\WinFormsApp1\RetezUtil\obj\Debug\net6.0\RetezUtil.pdb
+G:\PRG\WinFormsApp1\RetezUtil\obj\Debug\net6.0\ref\RetezUtil.dll
