@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "G:\\PRG\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "C:\\Users\\marsy\\Source\\Repos\\UkolRetezUtil\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "G:\\PRG\\WinFormsApp1\\RetezUtil\\RetezUtil.csproj": {
+    "C:\\Users\\marsy\\Source\\Repos\\UkolRetezUtil\\WinFormsApp1\\RetezUtil\\RetezUtil.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\PRG\\WinFormsApp1\\RetezUtil\\RetezUtil.csproj",
+        "projectUniqueName": "C:\\Users\\marsy\\Source\\Repos\\UkolRetezUtil\\WinFormsApp1\\RetezUtil\\RetezUtil.csproj",
         "projectName": "RetezUtil",
-        "projectPath": "G:\\PRG\\WinFormsApp1\\RetezUtil\\RetezUtil.csproj",
-        "packagesPath": "C:\\Users\\syrovym.05\\.nuget\\packages\\",
-        "outputPath": "G:\\PRG\\WinFormsApp1\\RetezUtil\\obj\\",
+        "projectPath": "C:\\Users\\marsy\\Source\\Repos\\UkolRetezUtil\\WinFormsApp1\\RetezUtil\\RetezUtil.csproj",
+        "packagesPath": "C:\\Users\\marsy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marsy\\Source\\Repos\\UkolRetezUtil\\WinFormsApp1\\RetezUtil\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\syrovym.05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marsy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -28,7 +28,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -62,25 +61,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "G:\\PRG\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "C:\\Users\\marsy\\Source\\Repos\\UkolRetezUtil\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\PRG\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "C:\\Users\\marsy\\Source\\Repos\\UkolRetezUtil\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "G:\\PRG\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
-        "packagesPath": "C:\\Users\\syrovym.05\\.nuget\\packages\\",
-        "outputPath": "G:\\PRG\\WinFormsApp1\\WinFormsApp1\\obj\\",
+        "projectPath": "C:\\Users\\marsy\\Source\\Repos\\UkolRetezUtil\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "packagesPath": "C:\\Users\\marsy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marsy\\Source\\Repos\\UkolRetezUtil\\WinFormsApp1\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\syrovym.05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marsy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -90,15 +89,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "G:\\PRG\\WinFormsApp1\\RetezUtil\\RetezUtil.csproj": {
-                "projectPath": "G:\\PRG\\WinFormsApp1\\RetezUtil\\RetezUtil.csproj"
+              "C:\\Users\\marsy\\Source\\Repos\\UkolRetezUtil\\WinFormsApp1\\RetezUtil\\RetezUtil.csproj": {
+                "projectPath": "C:\\Users\\marsy\\Source\\Repos\\UkolRetezUtil\\WinFormsApp1\\RetezUtil\\RetezUtil.csproj"
               }
             }
           }
@@ -131,7 +129,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

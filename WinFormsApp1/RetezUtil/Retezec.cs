@@ -8,6 +8,14 @@ namespace RetezUtil
 {
     public class Retezec
     {
+
+        /// <summary>
+        /// Metoda Smaž
+        ///  - smaže všechna čísla ve vstupu
+        /// </summary>
+        /// <param name="s">Řetězec string</param>
+        /// <returns>Opravený řetězec</returns>
+
         static public string Smaz(string s)
         {
             string cislice = "0123456789";
@@ -24,10 +32,9 @@ namespace RetezUtil
         }
 
 
-        static public string[] Zobraz(string s)
+        static public string Zobraz(string s)
         {
-            return s.Split(' ');
-
+            return s;
         }
 
     }
